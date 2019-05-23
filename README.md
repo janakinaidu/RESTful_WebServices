@@ -31,8 +31,8 @@ ii)RESTEasy: RESTEasy is the JBoss project that provides JAX-RS implementation.
 
 Concept of Serilization and De-serilization:
 --------------------------------------------
-	->Serialization and Deserialization in Java. Serialization is a process of converting an object into a sequence 
-	    of bytes which can be persisted to a disk or database or can be sent through streams.
+	->Serialization and Deserialization in Java. Serialization is a process of converting an object into a 
+	  sequence of bytes which can be persisted to a disk or database or can be sent through streams.
 	->The reverse process of creating object from sequence of bytes is called deserialization.
 
 //source:
